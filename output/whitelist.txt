@@ -1,6 +1,6 @@
 ! Title: My Optimized Whitelist
-! Last Modified: 2026-02-07 12:38:47
-! Total Whitelist Rules: 19055
+! Last Modified: 2026-02-07 18:29:14
+! Total Whitelist Rules: 19061
 ! Sources: allow_hagezi_referral, allow_hagezi_shortener, allow_adguard_android, allow_adguard_windows, allow_adguard_mac, allow_adguard_firefox, allow_adguard_banks, allow_adguard_sensitive, allow_adguard_issues, allow_adguard_sdns, allow_anudeep_white, allow_anudeep_referral, allow_anudeep_optional, allow_togofire, allow_dandelionsprout, allow_freekers, allow_notracking, allow_boutetnico_shortener, allow_ookangzheng, allow_discord_official, allow.txt (Local)
 ! ---------------------------------------------------
 
@@ -483,6 +483,7 @@
 @@||8-aclk.net^$important
 @@||8.ly^$important
 @@||8591.tw^$important
+@@||888b.pw^$important
 @@||888df.com^$important
 @@||88nb.cc^$important
 @@||88win.link^$important
@@ -511,6 +512,7 @@
 @@||99forward.com^$important
 @@||99fw.in^$important
 @@||99links.in^$important
+@@||9g9.org^$important
 @@||9h.dk^$important
 @@||9k.gg^$important
 @@||9lick.me^$important
@@ -915,6 +917,7 @@
 @@||aftv.news^$important
 @@||aftvnews.com^$important
 @@||agbank.az^$important
+@@||agbr.ir^$important
 @@||agenciatributaria.gob.es^$important
 @@||agentassistcrm.org^$important
 @@||agents.extremereach.com^$important
@@ -1041,6 +1044,7 @@
 @@||alias.live^$important
 @@||aliasurlshortener.com^$important
 @@||alibaba.com^$important
+@@||alibuy.live^$important
 @@||alicdn.com^$important
 @@||alicedeals.com^$important
 @@||alie.kr^$important
@@ -1263,6 +1267,7 @@
 @@||apartments.com^$important
 @@||apb2.de^$important
 @@||apbiosuccess.com^$important
+@@||apcargocourier.com^$important
 @@||apeksbank.com.ua^$important
 @@||apelink.info^$important
 @@||apertibumn.org^$important
@@ -1527,6 +1532,7 @@
 @@||arttrk.com^$important
 @@||arurl.us^$important
 @@||arus.cc^$important
+@@||as1ansl0t88.site^$important
 @@||asadcdn.com^$important
 @@||asap.to^$important
 @@||asb.az^$important
