@@ -97,3 +97,4 @@
 ! --- GOOGLE SERVICES (Để tránh lỗi Android) ---
 @@||connectivitycheck.gstatic.com^$important
 @@||android.apis.google.com^$important
+hoathinh3d.bz^$important
