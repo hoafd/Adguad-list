@@ -1,0 +1,6 @@
+Lưu ý: file này không nằm trong hệ thống vận hành
+Danh sách thêm nếu cần
+ lọc cực đoan: 
+ { "name": "hagezi_nrd_7day", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrd7.txt" },
+ { "name": "hagezi_nrd_14_8", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrd14-8.txt" },
+

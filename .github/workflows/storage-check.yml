@@ -1,0 +1,47 @@
+name: Check Repository Storage Usage
+
+on:
+  workflow_dispatch: # Bấm tay để kiểm tra
+
+permissions:
+  contents: read
+
+jobs:
+  check-size:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Tải toàn bộ để đo được lịch sử Git
+
+      - name: Calculate Storage Usage
+        run: |
+          echo "===================================================="
+          echo "📊 BÁO CÁO CÂN ĐO ĐONG ĐẾM REPO - HOA FD"
+          echo "===================================================="
+          
+          echo -e "\n1️⃣ TỔNG DUNG LƯỢNG TOÀN BỘ REPO (GỒM CẢ LỊCH SỬ):"
+          echo "Đây là con số GitHub dùng để tính giới hạn cho ní."
+          du -sh .
+          
+          echo -e "\n2️⃣ DUNG LƯỢNG LỊCH SỬ ẨN (THƯ MỤC .GIT):"
+          echo "Cái này càng lớn nghĩa là ní càng cập nhật nhiều lần."
+          du -sh .git
+
+          echo -e "\n3️⃣ DUNG LƯỢNG CÁC FILE HIỆN TẠI (WORKING TREE):"
+          echo "Đây là dung lượng thực tế của các file ní đang dùng."
+          # Đo tổng dung lượng trừ thư mục .git
+          du -sh --exclude=.git .
+
+          echo -e "\n4️⃣ CHI TIẾT TỪNG FILE HIỆN TẠI (NẶNG NHẤT):"
+          # Liệt kê các file hiện tại, không tính đống rác trong .git
+          find . -type f -not -path '*/.*' -exec du -h {} + | sort -hr | head -n 15
+
+          echo -e "\n5️⃣ DUNG LƯỢNG CÁC THƯ MỤC CHÍNH:"
+          du -sh output/ backup/ my-rules/ config/ 2>/dev/null || echo "Chưa có dữ liệu."
+          
+          echo "===================================================="
+          echo "💡 Ghi chú: Nếu mục (1) > 500MB, ní nên cân nhắc bấm dọn dẹp!"
+          echo "===================================================="
+          

@@ -1,0 +1,86 @@
+{
+  "blocklist_sources": [
+    { "_comment": "=== 1. VIỆT NAM (Cốt lõi & Chống lừa đảo) ===" },
+    { "name": "vn_bigdargon_hosts", "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" },
+    { "name": "vn_abpvn", "url": "https://abpvn.com/android/abpvn.txt" },
+    { "name": "vn_badsite", "url": "https://malware-filter.gitlab.io/vn-badsite-filter/vn-badsite-filter-agh.txt" },
+    { "name": "vn_bigdargon_threat", "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts" },
+    { "name": "vn_fmsf_2_0", "url": "https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt" },
+
+    { "_comment": "=== 2. HAGEZI CORE (Bộ lọc Quốc tế Mạnh nhất) ===" },
+    { "name": "hagezi_pro_plus", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt" },
+    
+    { "_comment": "=== 3. SECURITY (Bảo mật & Chống lừa đảo) ===" },
+    { "name": "hagezi_tif", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt" },
+    { "name": "hagezi_fake", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt" },
+    { "name": "hagezi_badware_hoster", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt" },
+    { "name": "hagezi_dynamic_dns", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt" },
+    { "name": "hagezi_anti_piracy", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt" },
+    
+    { "_comment": "=== 4. PRIVACY (Chống theo dõi thiết bị) ===" },
+    { "name": "hagezi_doh_vpn_proxy_bypass", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt" },
+    { "name": "hagezi_native_windows", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt" },
+    { "name": "hagezi_native_apple", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt" },
+    { "name": "hagezi_native_samsung", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt" },
+    { "name": "hagezi_native_xiaomi", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt" },
+    { "name": "hagezi_native_huawei", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt" },
+    { "name": "hagezi_native_amazon", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt" },
+    { "name": "hagezi_native_tiktok", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt" },
+    { "name": "perflyst_smart_tv", "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" },
+    { "name": "perflyst_android_tracking", "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt" },
+
+    { "_comment": "=== 5. GAMBLING (Cờ bạc) ===" },
+    { "name": "hagezi_gambling", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt" },
+    { "name": "gambling_bigdargon", "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts" },
+    { "name": "gambling_blocklist_project", "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/adguard/gambling-ags.txt" },
+    { "name": "sinfonietta_gambling", "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts" },
+
+    { "_comment": "=== 6. ANNOYANCES (Phiền toái) ===" },
+    { "name": "hagezi_popup_ads", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt" },
+    { "name": "hagezi_spam_tlds", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt" },
+    
+    { "_comment": "=== 7. QUỐC TẾ KHÁC (Bổ trợ) ===" },
+    { "name": "oisd_big", "url": "https://big.oisd.nl/" },
+    { "name": "1hosts_lite", "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" },
+    { "name": "adguard_base", "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt" },
+    { "name": "stevenblack_unified", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" },
+    { "name": "sec_urlhaus", "url": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt" },
+    { "name": "sec_phishing_army", "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt" },
+    { "name": "sec_nocoin", "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt" }
+  ],
+
+  "whitelist_sources": [
+    { "_comment": "=== WHITELIST: ĐÃ CHỌN LỌC KỸ ===" },
+    
+    { "_comment": "-- HAGEZI (Referral & Shortener) --" },
+    { "name": "allow_hagezi_referral", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt" },
+    { "name": "allow_hagezi_shortener", "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt" },
+
+    { "_comment": "-- ADGUARD OFFICIAL (Bắt buộc) --" },
+    { "name": "allow_adguard_android", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt" },
+    { "name": "allow_adguard_windows", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt" },
+    { "name": "allow_adguard_mac", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt" },
+    { "name": "allow_adguard_firefox", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt" },
+    { "name": "allow_adguard_banks", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt" },
+    { "name": "allow_adguard_sensitive", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt" },
+    { "name": "allow_adguard_issues", "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt" },
+    { "name": "allow_adguard_sdns", "url": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt" },
+
+    { "_comment": "-- CỘNG ĐỒNG KHÁC --" },
+    { "name": "allow_anudeep_white", "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt" },
+    { "name": "allow_anudeep_referral", "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt" },
+    { "name": "allow_anudeep_optional", "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt" },
+    { "name": "allow_togofire", "url": "https://raw.githubusercontent.com/TogoFire-Home/AD-Settings/main/Filters/whitelist.txt" },
+    { "name": "allow_dandelionsprout", "url": "https://raw.githubusercontent.com/DandelionSprout/AdGuard-Home-Whitelist/master/whitelist.txt" },
+    { "name": "allow_freekers", "url": "https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt" },
+    { "name": "allow_notracking", "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt" },
+    { "name": "allow_boutetnico_shortener", "url": "https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt" },
+    { "name": "allow_ookangzheng", "url": "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt" },
+    { "name": "allow_discord_official", "url": "https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt" }
+  ],
+
+  "local_sources": {
+    "block": "my-rules/block.txt",
+    "allow": "my-rules/allow.txt"
+  }
+}

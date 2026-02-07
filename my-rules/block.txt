@@ -1,0 +1,84 @@
+# Danh sách chặn riêng của tui
+example-gambling.com
+test-ads.net
+hitclub.to
+www.hitclub.to
+
+! --- Cờ Bạc: Sunwin Cluster (Hydra Strategy) ---
+||sunwin.fo^
+||sunwin.vip^
+||tải-sunwin.com^
+||sunwin20.net^
+||sunwin.casino^
+||sunwinz.top^
+||sunwin1.world^
+||sunwin79.pro^
+||sunxv.net^
+||sunwinvnd.win^
+||sunwin20a.com^
+||topga6789.com^
+||get.sun.win^
+||get2.sun.win^
+
+! --- Cờ Bạc: Rikvip & Haywin Cluster ---
+||qc.rikvip.info^
+||rikvip.date^
+||rikvip.us^
+||rikvip5org.website3.me^
+||rikvip.tv^
+||haywin.lat^
+||1haywin.co^
+||haywin.club^
+
+! --- Các Trang Cờ Bạc Lớn Khác (Cập nhật 2026) ---
+||hit.club^
+||b52.club^
+||go88.co^
+||789club.org^
+||vn88.in.net^
+||www8867807.com^
+
+! --- Chặn Botnet & Script Độc Hại (Targeting TruyenQQ) ---
+||6686vn1.com^
+||6686vn99.com^
+||irregularglancedyielded.com^
+||footbathmockerpurse.com^
+||i.finallygotthexds.site^
+||deloplen.com^
+
+! --- Chặn TLD Rủi Ro Cao (Nơi chứa nhiều web cờ bạc lậu) ---
+! Lưu ý: Nếu bạn có truy cập web hợp pháp ở Faroe Islands thì bỏ dòng .fo
+||*.fo^
+||*.lat^
+||*.bet^
+||*.casino^
+
+! --- CÁ CƯỢC & SHORT LINK RÁC (Thêm ngày 04/02/2026) ---
+||td88.link^
+||8usa.me^
+||vndsure.win^
+
+! Lưu ý: ln.run là trang rút gọn link. Chặn nó sẽ chặn luôn các link sạch khác dùng dịch vụ này.
+! Nếu bạn quyết tâm chặn quảng cáo cờ bạc từ nó thì giữ dòng dưới:
+||ln.run^
+4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
+9w2zed1szg.execute-api.us-east-1.amazonaws.com
+admarvel.s3.amazonaws.com
+adpublisher.s3.amazonaws.com
+analytics.s3.amazonaws.com
+ams-pageview-public.s3.amazonaws.com
+alphaupsell.s3.ap-northeast-2.amazonaws.com
+alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
+dackpartner-web.s3.amazonaws.com
+d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+connectio.s3.amazonaws.com
+biowebb-data.s3.amazonaws.com
+amazonaws.com
+analyticsengine.s3.amazonaws.com
+informer.yandex.ru
+authbe.sec.intl.miui.com
+o2o.api.xiaomi.com
+pixel.facebook.coma
+n.facebook.com
+api.sec.miui.com
