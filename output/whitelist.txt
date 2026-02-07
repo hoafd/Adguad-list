@@ -1,6 +1,6 @@
 ! Title: My Optimized Whitelist
-! Last Modified: 2026-02-07 09:51:38
-! Total Whitelist Rules: 19042
+! Last Modified: 2026-02-07 12:26:59
+! Total Whitelist Rules: 19054
 ! Sources: allow_hagezi_referral, allow_hagezi_shortener, allow_adguard_android, allow_adguard_windows, allow_adguard_mac, allow_adguard_firefox, allow_adguard_banks, allow_adguard_sensitive, allow_adguard_issues, allow_adguard_sdns, allow_anudeep_white, allow_anudeep_referral, allow_anudeep_optional, allow_togofire, allow_dandelionsprout, allow_freekers, allow_notracking, allow_boutetnico_shortener, allow_ookangzheng, allow_discord_official, allow.txt (Local)
 ! ---------------------------------------------------
 
@@ -304,6 +304,7 @@
 @@||3c.pw^$important
 @@||3c5.com^$important
 @@||3cinteractive.com^$important
+@@||3d-ul.ir^$important
 @@||3d1200.xyz^$important
 @@||3dns-2.adobe.com^$important
 @@||3dns-3.adobe.com^$important
@@ -348,6 +349,7 @@
 @@||45h.it^$important
 @@||46.fi^$important
 @@||47.de^$important
+@@||48l.ir^$important
 @@||49rs.co^$important
 @@||4a.lol^$important
 @@||4alink.net^$important
@@ -369,6 +371,7 @@
 @@||4ix.com^$important
 @@||4ja.ai^$important
 @@||4l.shop^$important
+@@||4md.ir^$important
 @@||4or.de^$important
 @@||4qt.in^$important
 @@||4se.sa^$important
@@ -406,6 +409,7 @@
 @@||56.com^$important
 @@||5du.pl^$important
 @@||5em.cz^$important
+@@||5ia.ir^$important
 @@||5il.co^$important
 @@||5k.lol^$important
 @@||5m.io^$important
@@ -1201,6 +1205,7 @@
 @@||andebu-sparebank.no^$important
 @@||andmdo.com^$important
 @@||andre-link.vercel.app^$important
+@@||android.apis.google.com^$important
 @@||android.clients.google.com  ^$important
 @@||android.clients.google.com^$important
 @@||android.com^$important
@@ -2585,6 +2590,7 @@
 @@||brook.gs^$important
 @@||browsen.de^$important
 @@||browser-intake-datadoghq.com^$important
+@@||browser.coccoc.com^$important
 @@||browser.events.data.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
 @@||browser.to^$important
@@ -3513,6 +3519,7 @@
 @@||coastcapitalsavings.com^$important
 @@||coba.la^$important
 @@||cobinhood.com^$important
+@@||coccoc.com^$important
 @@||cockroa.ch^$important
 @@||cocn.in^$important
 @@||codango.run^$important
@@ -13085,6 +13092,7 @@
 @@||sadar.id^$important
 @@||saerly.com^$important
 @@||saf.li^$important
+@@||safe-browsing-api.coccoc.com^$important
 @@||safe.mn^$important
 @@||safe.txmblr.com^$important
 @@||safeads.com.br^$important
@@ -14269,6 +14277,7 @@
 @@||smartpctools.com^$important
 @@||smartredirect.de^$important
 @@||smartshortlinks.com^$important
+@@||smartthings.com^$important
 @@||smarttv-html.fptplay.vn^$important
 @@||smarturl.co.uk^$important
 @@||smarturl.hu^$important
@@ -14971,6 +14980,7 @@
 @@||static.tianya.cn^$important
 @@||static.tianyaui.com^$important
 @@||static.tumblr.com^$important
+@@||static.tv360.vn^$important
 @@||static.wired.com^$important
 @@||static.ws.126.net^$important
 @@||static.xx.fbcdn.net^$important
@@ -16096,6 +16106,7 @@
 @@||transientfiles.com^$important
 @@||translate.google.com^$important
 @@||translate.googleapis.com^$important
+@@||transsion.com^$important
 @@||transunion.com^$important
 @@||travelinge.my^$important
 @@||travelmarketingandmedia.com^$important
@@ -17342,6 +17353,7 @@
 @@||vidzsb.com^$important
 @@||vietcombank.com.vn^$important
 @@||vietinbank.vn^$important
+@@||vietteltelecom.vn^$important
 @@||view.email.nzz.ch^$important
 @@||view.helpline-app.com^$important
 @@||view.robothumb.com^$important

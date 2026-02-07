@@ -72,3 +72,28 @@
 @@||smarttv-html.fptplay.vn^$important
 @@||fptplay.vn^$important
 @@||massgrave.dev^
+
+! --- FIX LỖI TRÌNH DUYỆT CỐC CỐC (Nếu ní có dùng) ---
+@@||coccoc.com^$important
+@@||safe-browsing-api.coccoc.com^$important
+@@||browser.coccoc.com^$important
+
+! --- FIX LỖI APP VIETTEL & TV360 ---
+@@||vietteltelecom.vn^$important
+@@||static.tv360.vn^$important
+
+! --- FIX LỖI SAMSUNG CLOUD & SMARTTHINGS ---
+@@||samsungcloudsolution.com^$important
+@@||samsungcloudsolution.net^$important
+@@||smartthings.com^$important
+
+! --- FIX LỖI FPT PLAY (Trên Smart TV) ---
+@@||fptplay.vn^$important
+@@||smarttv-html.fptplay.vn^$important
+
+! --- FIX LỖI DỊCH VỤ TECNO/TRANSSION (Nhạc chuông, Chủ đề) ---
+@@||transsion.com^$important
+
+! --- GOOGLE SERVICES (Để tránh lỗi Android) ---
+@@||connectivitycheck.gstatic.com^$important
+@@||android.apis.google.com^$important
