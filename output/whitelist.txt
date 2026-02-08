@@ -1,6 +1,6 @@
 ! Title: My Optimized Whitelist
-! Last Modified: 2026-02-08 06:43:44
-! Total Whitelist Rules: 19063
+! Last Modified: 2026-02-08 12:40:06
+! Total Whitelist Rules: 19072
 ! Sources: allow_hagezi_referral, allow_hagezi_shortener, allow_adguard_android, allow_adguard_windows, allow_adguard_mac, allow_adguard_firefox, allow_adguard_banks, allow_adguard_sensitive, allow_adguard_issues, allow_adguard_sdns, allow_anudeep_white, allow_anudeep_referral, allow_anudeep_optional, allow_togofire, allow_dandelionsprout, allow_freekers, allow_notracking, allow_boutetnico_shortener, allow_ookangzheng, allow_discord_official, allow.txt (Local)
 ! ---------------------------------------------------
 
@@ -3943,6 +3943,7 @@
 @@||cvcpl.us^$important
 @@||cvent.me^$important
 @@||cvfmiij.wiki^$important
+@@||cvitko.com^$important
 @@||cvp1.cdn.turner.com^$important
 @@||cvs.co^$important
 @@||cvw-privatbank-ag.de^$important
@@ -4562,6 +4563,7 @@
 @@||dt51.net^$important
 @@||dtbank.hu^$important
 @@||dtdg.co^$important
+@@||dte.bz^$important
 @@||dti.io^$important
 @@||dtl.la^$important
 @@||dto.vakifbank.com.tr^$important
@@ -4668,6 +4670,7 @@
 @@||e7.al^$important
 @@||e7065.e2.akamaiedge.net^$important
 @@||e78installers.com^$important
+@@||e9e.ir^$important
 @@||ea.com^$important
 @@||ea.galerieslafayette.com^$important
 @@||eaash.co^$important
@@ -4906,6 +4909,7 @@
 @@||emp.onl^$important
 @@||emploiquebec.gouv.qc.ca^$important
 @@||emptyloop.com^$important
+@@||empukjeru.site^$important
 @@||emsland-mitte.de^$important
 @@||emu.li^$important
 @@||en.opensuse.org^$important
@@ -5328,6 +5332,7 @@
 @@||fhm.com^$important
 @@||fhurl.com^$important
 @@||fi.cr^$important
+@@||fi9.ir^$important
 @@||fiatconnect.app^$important
 @@||fibi-online.co.il^$important
 @@||fibr.ai^$important
@@ -5462,6 +5467,7 @@
 @@||fmurl.cc^$important
 @@||fn.gg^$important
 @@||fna.fbcdn.net^$important
+@@||fna.ir^$important
 @@||fnb.co.za^$important
 @@||fnb.com.lb^$important
 @@||fnb.ink^$important
@@ -5726,6 +5732,7 @@
 @@||gc3d.georgiancard.ge^$important
 @@||gclnk.com^$important
 @@||gcp.api.snapchat.com^$important
+@@||gcrs.live^$important
 @@||gcs.sc-cdn.net^$important
 @@||gct.dashboard.wedare.pl^$important
 @@||gdanstum.net^$important
@@ -5808,6 +5815,7 @@
 @@||getabre.com^$important
 @@||getairmail.com^$important
 @@||getashorturl.com^$important
+@@||getbiolink.com^$important
 @@||getbiolink.me^$important
 @@||getbitly.pro^$important
 @@||getblue.me^$important
@@ -6093,6 +6101,7 @@
 @@||go2cloud.org^$important
 @@||go2ct.pro^$important
 @@||go2jump.org^$important
+@@||go2l.ir^$important
 @@||go2ln.com^$important
 @@||go2my.info^$important
 @@||go2sm.com^$important
