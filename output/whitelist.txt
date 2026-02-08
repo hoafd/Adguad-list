@@ -1,6 +1,6 @@
 ! Title: My Optimized Whitelist
-! Last Modified: 2026-02-07 18:29:14
-! Total Whitelist Rules: 19061
+! Last Modified: 2026-02-08 02:08:33
+! Total Whitelist Rules: 19063
 ! Sources: allow_hagezi_referral, allow_hagezi_shortener, allow_adguard_android, allow_adguard_windows, allow_adguard_mac, allow_adguard_firefox, allow_adguard_banks, allow_adguard_sensitive, allow_adguard_issues, allow_adguard_sdns, allow_anudeep_white, allow_anudeep_referral, allow_anudeep_optional, allow_togofire, allow_dandelionsprout, allow_freekers, allow_notracking, allow_boutetnico_shortener, allow_ookangzheng, allow_discord_official, allow.txt (Local)
 ! ---------------------------------------------------
 
@@ -2297,6 +2297,7 @@
 @@||bitlyli.com^$important
 @@||bitlylinks.com^$important
 @@||bitlyshort.com^$important
+@@||bitlyvi.com^$important
 @@||bitlz.cc^$important
 @@||bitpanda.com^$important
 @@||bitpay.com^$important
@@ -3548,6 +3549,7 @@
 @@||coinbot.kr^$important
 @@||coinclix.co^$important
 @@||coinmarketcap.com^$important
+@@||coinpr.info^$important
 @@||coinspot.com.au^$important
 @@||coklat.vip^$important
 @@||collect.smartpcupdate.com^$important
@@ -10813,6 +10815,7 @@
 @@||onedrive.com^$important
 @@||onedrive.live.com^$important
 @@||onelink-translations.com^$important
+@@||onelink.com.do^$important
 @@||onelink.lt^$important
 @@||onelink.me^$important
 @@||onelink.to^$important
@@ -17424,7 +17427,6 @@
 @@||vivocha.com^$important
 @@||vivoldi.com^$important
 @@||vivuso.ru^$important
-@@||vix.cx^$important
 @@||vjs.zencdn.net^$important
 @@||vk-cdn.net^$important
 @@||vk.cc^$important
