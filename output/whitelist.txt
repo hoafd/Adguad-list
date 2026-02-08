@@ -1,5 +1,5 @@
 ! Title: My Optimized Whitelist
-! Last Modified: 2026-02-08 02:08:33
+! Last Modified: 2026-02-08 06:43:44
 ! Total Whitelist Rules: 19063
 ! Sources: allow_hagezi_referral, allow_hagezi_shortener, allow_adguard_android, allow_adguard_windows, allow_adguard_mac, allow_adguard_firefox, allow_adguard_banks, allow_adguard_sensitive, allow_adguard_issues, allow_adguard_sdns, allow_anudeep_white, allow_anudeep_referral, allow_anudeep_optional, allow_togofire, allow_dandelionsprout, allow_freekers, allow_notracking, allow_boutetnico_shortener, allow_ookangzheng, allow_discord_official, allow.txt (Local)
 ! ---------------------------------------------------
