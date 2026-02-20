@@ -1,0 +1,82 @@
+! --- MẠNG XÃ HỘI & CÁ NHÂN ---
+@@||facebook.com^
+@@||zalo.me^
+@@||zaloapp.com^
+@@||zdn.vn^
+
+! --- GOOGLE & YOUTUBE (FIX LỖI CAST & LỊCH SỬ) ---
+@@||googleadservices.com^
+@@||googleanalytics.com^
+@@||click.googleanalytics.com^
+@@||youtube.com^
+@@||youtu.be^
+@@||youtube-nocookie.com^
+@@||googlevideo.com^
+@@||ytimg.com^
+@@||ggpht.com^
+@@||youtube.googleapis.com^
+@@||accounts.youtube.com^
+@@||ytlr-pa.googleapis.com^
+@@||youtubei.googleapis.com^
+
+! --- HẠ TẦNG APP & ANDROID ---
+@@||googleapis.com^
+@@||app-measurement.com^
+@@||connectivitycheck.gstatic.com^$important
+@@||android.apis.google.com^$important
+
+! --- NGÂN HÀNG & THANH TOÁN VN ---
+@@||gov.vn^
+@@||chinhphu.vn^
+@@||napas.com.vn^
+@@||vnpay.vn^
+@@||momo.vn^
+@@||zalopay.vn^
+
+! --- MUA SẮM ---
+@@||shopee.vn^
+@@||lazada.vn^
+@@||tiki.vn^
+@@||shopeemobile.com^
+@@||shp.ee^
+@@||thegioididong.com^
+
+! --- MICROSOFT & HỆ THỐNG ---
+@@||microsoft.com^
+@@||windowsupdate.com^
+@@||delivery.mp.microsoft.com^
+@@||tailscale.com^
+@@||ts.net^
+
+! --- RÚT GỌN LINK & CHAT ---
+@@||bit.ly^
+@@||goo.gl^
+@@||tinyurl.com^
+@@||t.co^
+@@||liveperson.net^
+@@||lpsnmedia.net^
+@@||tawk.to^
+
+! --- SAMSUNG TV & SMART HUB (FIX LỖI KẾT NỐI) ---
+@@||samsungcloudsolution.com^$important
+@@||samsungcloudsolution.net^$important
+@@||samsungcloud.com^
+@@||samsungqbe.com^
+@@||samsungcloudcdn.com^
+@@||samsung.com^
+@@||samsungosp.com^
+@@||atlas.samsung.com^
+@@||smartthings.com^$important
+@@||samsung-com.112.2o7.net^
+
+! --- GIẢI TRÍ & FIX LỖI APP VN ---
+@@||smarttv-html.fptplay.vn^$important
+@@||fptplay.vn^$important
+@@||vietteltelecom.vn^$important
+@@||static.tv360.vn^$important
+@@||coccoc.com^$important
+@@||safe-browsing-api.coccoc.com^$important
+@@||browser.coccoc.com^$important
+@@||hoathinh3d.bz^$important
+@@||massgrave.dev^
+@@||phimmoichill.now^

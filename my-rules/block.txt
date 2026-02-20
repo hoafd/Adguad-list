@@ -1,0 +1,93 @@
+! Title: My Custom Blocklist
+! Description: Danh sách chặn riêng cho Cờ bạc, Botnet và Tracking
+! Syntax: AdGuard Standard
+
+! --- DANH SÁCH CHẶN RIÊNG ---
+||example-gambling.com^
+||test-ads.net^
+||hitclub.to^
+
+! --- Cờ Bạc: Sunwin Cluster (Hydra Strategy) ---
+||sunwin.fo^
+||sunwin.vip^
+||tải-sunwin.com^
+||sunwin20.net^
+||sunwin.casino^
+||sunwinz.top^
+||sunwin1.world^
+||sunwin79.pro^
+||sunxv.net^
+||sunwinvnd.win^
+||sunwin20a.com^
+||topga6789.com^
+||get.sun.win^
+||get2.sun.win^
+
+! --- Cờ Bạc: Rikvip & Haywin Cluster ---
+||qc.rikvip.info^
+||rikvip.date^
+||rikvip.us^
+||rikvip5org.website3.me^
+||rikvip.tv^
+||haywin.lat^
+||1haywin.co^
+||haywin.club^
+
+! --- Các Trang Cờ Bạc Lớn Khác (Cập nhật 2026) ---
+||hit.club^
+||b52.club^
+||go88.co^
+||789club.org^
+||vn88.in.net^
+||www8867807.com^
+
+! --- Chặn Botnet & Script Độc Hại (Targeting TruyenQQ) ---
+||6686vn1.com^
+||6686vn99.com^
+||irregularglancedyielded.com^
+||footbathmockerpurse.com^
+||i.finallygotthexds.site^
+||deloplen.com^
+
+! --- Chặn TLD Rủi Ro Cao (Wildcard) ---
+||*.fo^
+||*.lat^
+||*.bet^
+||*.casino^
+
+! --- CÁ CƯỢC & SHORT LINK RÁC ---
+||td88.link^
+||8usa.me^
+||vndsure.win^
+
+! Lưu ý: ln.run là trang rút gọn link.
+||ln.run^
+
+! --- TRACKING & QUẢNG CÁO (AWS & OTHERS) ---
+! Cảnh báo: Đã comment dòng amazonaws.com vì chặn nó sẽ gây lỗi mạng diện rộng.
+! ||amazonaws.com^ 
+
+! Chỉ chặn các bucket/api rác cụ thể:
+||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
+||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
+||admarvel.s3.amazonaws.com^
+||adpublisher.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||ams-pageview-public.s3.amazonaws.com^
+||alphaupsell.s3.ap-northeast-2.amazonaws.com^
+||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
+||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^
+||dackpartner-web.s3.amazonaws.com^
+||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
+||connectio.s3.amazonaws.com^
+||biowebb-data.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+
+! --- TRACKING KHÁC ---
+||informer.yandex.ru^
+||authbe.sec.intl.miui.com^
+||o2o.api.xiaomi.com^
+||pixel.facebook.com^
+||n.facebook.com^
+||api.sec.miui.com^
+||mads.amazon.com^
