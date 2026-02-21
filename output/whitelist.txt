@@ -1,5 +1,5 @@
 ! Title: My Final Whitelist
-! Updated: 2026-02-21 13:42:55
+! Updated: 2026-02-21 14:28:22
 ! Rules in this file: 19128
 !
 ! --- YOUR FILTER LINKS (Copy & Paste to AdGuard) ---
